@@ -1,0 +1,10 @@
+<?php
+
+// Add the style sheet
+$GLOBALS['TL_CSS'][] = 'system/modules/beRe_divider/assets/css/beRe_divider.css|static';
+
+?>
+<div class="clear">&nbsp;</div>
+<div class="<?php echo $this->class; ?> block">
+	<span class="<?php echo $this->beRe_divider_type; ?> block"></span>
+</div>
