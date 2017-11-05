@@ -1,0 +1,41 @@
+/* copy & paste to customize.css */
+
+/* Trennlinie */
+.ce_beRe_trennlinie {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.ce_beRe_trennlinie span.divider01 {
+	background: rgba(0,0,0,0.5);
+	height: 3px;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.ce_beRe_trennlinie span.divider02 {
+	background: rgba(0,0,0,0.1);
+	height: 1px;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.ce_beRe_trennlinie span.divider03 {
+	background: rgba(0,0,0,0.1);
+	height: 1px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.ce_beRe_trennlinie span.divider04 {
+	background: rgba(0,0,0,0);
+	height: 1px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
